@@ -18,6 +18,6 @@
 ### Running the code
 
 1. Open irb or pry in the terminal
-2. `require knights.rb`
+2. `require "./knights.rb"`
 3. Create a new instance of the Knight class with a starting position. `k = KnightPathFinder.new([0, 0])`
 4. Run `k.find_path([7, 6])` or any ending position of your choosing
